@@ -98,3 +98,8 @@ Each processed audio clip writes a WAV response and a JSON record with transcrip
 ## Privacy and safety
 
 Only use the synthetic provided records. Do not commit `.env` or API keys. Do not use any STT/TTS provider other than Gnani for this capstone.
+Demo Video
+
+Demo video recordings: https://drive.google.com/drive/folders/1ERCLunTgAKFKu24JuBF93ZIYgoL9zJ99
+
+The folder contains the project demonstration recordings.
