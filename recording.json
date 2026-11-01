@@ -1,0 +1,6 @@
+{
+  "transcript": "hello i want to check my order status",
+  "reply": "Please share your order ID. I will then ask for verification before discussing order details.",
+  "sources": [],
+  "audio": "outputs\\batch_test\\Recording_reply.wav"
+}
